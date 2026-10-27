@@ -18,6 +18,6 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
 Propuesta de Ejercicio
-Rama_1_cambio
-Rama_2_cambio
+Rama_1_cambio: Propongo cambio en rama1
+Rama_2_cambio: Mi cambio 2 finalizado 
 Genero Coonflicto y Resuelvo manualmente
